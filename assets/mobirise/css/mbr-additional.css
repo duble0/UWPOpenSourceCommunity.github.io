@@ -1759,7 +1759,7 @@ body {
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #2e2e2e;
+  background-color: #000000;
 }
 @media (max-width: 767px) {
   .cid-qTkAaeaxX5 .content {
@@ -1822,6 +1822,12 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qTkAaeaxX5 A {
+  color: #0074ce;
+}
+.cid-qTkAaeaxX5 P {
+  color: #0074ce;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
